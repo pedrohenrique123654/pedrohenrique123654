@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique123654&show_icons=true&theme=dark&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique123654&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique123654&layout=compact&theme=dark)
 
