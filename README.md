@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+Dono do meu próprio negócio e apaixonado por dados. Atuo em projetos variados — desde sportsbook para casas esportivas até saúde pública e segurança de supermercados — sempre com o mesmo objetivo: transformar dados brutos em decisões inteligentes. Formado em ADS, certificado pelo Google e analista de dados em constante evolução.
+
+</div>
+
 ## 📊 GitHub Stats
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-128-blue?style=flat&logo=github)
