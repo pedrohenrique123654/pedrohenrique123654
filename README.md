@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/2e6c7b14-31c9-4cc0-ab0e-11150ffb913d" width="100%"/>
 </div>
 
-### 🛠️ Tecnologias & Ferramentas
+#### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
