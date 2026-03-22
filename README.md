@@ -21,8 +21,22 @@ Dono do meu próprio negócio e apaixonado por dados. Atuo em projetos variados 
 
 </div>
 
-## 📬 Contato
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique123654&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique123654&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📬 Fale comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-hns/)
+
+</div>
 
 ![Snake](https://raw.githubusercontent.com/pedrohenrique123654/pedrohenrique123654/output/snake-dark.svg)
